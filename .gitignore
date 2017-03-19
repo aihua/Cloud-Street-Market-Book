@@ -1,3 +1,10 @@
 /.settings
 /src
 /.project
+/cloudstreetmarket-api/.classpath
+/cloudstreetmarket-api/.project
+/cloudstreetmarket-api/.settings
+/cloudstreetmarket-core/.project
+/cloudstreetmarket-core/.settings
+/cloudstreetmarket-core/target
+/cloudstreetmarket-core/.classpath
