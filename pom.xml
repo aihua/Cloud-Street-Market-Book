@@ -34,4 +34,9 @@
 			</plugin>
 		</plugins>
 	</build>
+	<modules>
+		<module>loudstreetmarket-webapp</module>
+		<module>cloudstreetmarket-api</module>
+		<module>cloudstreetmarket-core</module>
+	</modules>
 </project>
